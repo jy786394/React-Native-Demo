@@ -1,5 +1,5 @@
-# React-Native-Demo
-练习的React Native Demo
+# 练习的React Native Demo
+
 
 1.shopDemo : 九宫格
 
