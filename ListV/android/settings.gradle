@@ -1,0 +1,3 @@
+rootProject.name = 'ListV'
+
+include ':app'
